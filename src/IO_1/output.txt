@@ -1,6 +1,6 @@
 ----------------------------------------------List---------------------------------------------
 Author:100	Olivier_Duchenne	MIT	Computer_Science	oliver@mit.edu
-+1002001	A_Graph-matching_Kernel_for_Object_Categorization	ICCV	2012
++1002001   	A_Graph-matching_Kernel_for_Object_Categorization	ICCV	2012
 +1002004	From_Contours_to_3D_Object_Detection_and_Pose_Estimation	ICCV	2012
 +1002007	Variational_Stereo_in_Dynamic_Illumination	ICCV	2012
 +1002012	Source_Constrained_Clustering	ICCV	2012

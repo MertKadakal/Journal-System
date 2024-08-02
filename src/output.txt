@@ -1,0 +1,112 @@
+----------------------------------------------List---------------------------------------------
+Author:100  Olivier_Duchenne  MIT Computer_Science  oliver@mit.edu
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
++1002007    Variational_Stereo_in_Dynamic_Illumination
++1002012    Source_Constrained_Clustering
++1002018    Content-Based_Photo_Quality_Assessment
+
+Author:101  Ruonan_Li  MIT Computer_Science  ruonan@mit.edu
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1002009    A_Theory_of_Coprime_Blurred_Pairs
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
+
+Author:102  Horst_Bischof  HUN Computer_Engineering  horst@cs.hacettepe.edu.tr
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
+
+Author:103  Pietro_Perona  METU Computer_Science  pietro@ce.metu.edu.tr
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
++1032019    HEAT:Iterative_Relevance_Feedback_with_One_Million_Images
+
+Author:104  Nadia_Payet  METU Computer_Engineering  nadia@ce.metu.edu.tr
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1042020    Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator
++1042010    Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos
++1042008    Revisiting_Radiometric_Calibration_for_Color_Computer_Vision
+
+Author:105  Blake_Johnson  HARVARD Computer_Science  blake@harvard.edu
+----------------------------------------------End---------------------------------------------
+----------------------------------------------List---------------------------------------------
+Author:100  Olivier_Duchenne  MIT Computer_Science  oliver@mit.edu
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
++1002007    Variational_Stereo_in_Dynamic_Illumination
++1002012    Source_Constrained_Clustering
++1002018    Content-Based_Photo_Quality_Assessment
+
+Author:101  Ruonan_Li  MIT Computer_Science  ruonan@mit.edu
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1002009    A_Theory_of_Coprime_Blurred_Pairs
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
+
+Author:102  Horst_Bischof  HUN Computer_Engineering  horst@cs.hacettepe.edu.tr
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
+
+Author:103  Pietro_Perona  METU Computer_Science  pietro@ce.metu.edu.tr
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
++1032019    HEAT:Iterative_Relevance_Feedback_with_One_Million_Images
+
+Author:104  Nadia_Payet  METU Computer_Engineering  nadia@ce.metu.edu.tr
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1042020    Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator
++1042010    Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos
++1042008    Revisiting_Radiometric_Calibration_for_Color_Computer_Vision
+
+Author:105  Blake_Johnson  HARVARD Computer_Science  blake@harvard.edu
+----------------------------------------------End---------------------------------------------
+----------------------------------------------List---------------------------------------------
+Author:100  Olivier_Duchenne  MIT Computer_Science  oliver@mit.edu
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
++1002007    Variational_Stereo_in_Dynamic_Illumination
++1002012    Source_Constrained_Clustering
++1002018    Content-Based_Photo_Quality_Assessment
+
+Author:101  Ruonan_Li  MIT Computer_Science  ruonan@mit.edu
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1002009    A_Theory_of_Coprime_Blurred_Pairs
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
+
+Author:102  Horst_Bischof  HUN Computer_Engineering  horst@cs.hacettepe.edu.tr
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
+
+Author:103  Pietro_Perona  METU Computer_Science  pietro@ce.metu.edu.tr
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
++1032019    HEAT:Iterative_Relevance_Feedback_with_One_Million_Images
+
+Author:104  Nadia_Payet  METU Computer_Engineering  nadia@ce.metu.edu.tr
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1042020    Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator
++1042010    Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos
++1042008    Revisiting_Radiometric_Calibration_for_Color_Computer_Vision
+
+Author:105  Blake_Johnson  HARVARD Computer_Science  blake@harvard.edu
+----------------------------------------------End---------------------------------------------
+----------------------------------------------List---------------------------------------------
+Author:100  Olivier_Duchenne  MIT Computer_Science  oliver@mit.edu
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
++1002007    Variational_Stereo_in_Dynamic_Illumination
++1002012    Source_Constrained_Clustering
++1002018    Content-Based_Photo_Quality_Assessment
+
+Author:101  Ruonan_Li  MIT Computer_Science  ruonan@mit.edu
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1002009    A_Theory_of_Coprime_Blurred_Pairs
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
+
+Author:102  Horst_Bischof  HUN Computer_Engineering  horst@cs.hacettepe.edu.tr
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
+
+Author:103  Pietro_Perona  METU Computer_Science  pietro@ce.metu.edu.tr
++1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation
++1032019    HEAT:Iterative_Relevance_Feedback_with_One_Million_Images
+
+Author:104  Nadia_Payet  METU Computer_Engineering  nadia@ce.metu.edu.tr
++1002001    A_Graph-matching_Kernel_for_Object_Categorization
++1042020    Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator
++1042010    Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos
++1042008    Revisiting_Radiometric_Calibration_for_Color_Computer_Vision
+
+Author:105  Blake_Johnson  HARVARD Computer_Science  blake@harvard.edu
+----------------------------------------------End---------------------------------------------
