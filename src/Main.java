@@ -37,7 +37,6 @@ public class Main {
 
         //execute commands: list, completeAll, sortedAll, del sth
         for (String command : commands_txt) {
-            System.out.println(command.split(" ")[0]);
             switch (command.split(" ")[0]) {
                 case "list":
                     FileOutput.writeToFile(output, "----------------------------------------------List---------------------------------------------", true, true);
@@ -53,7 +52,18 @@ public class Main {
                             FileOutput.writeToFile(output, "" , true, true);
                         }
                     }
-                    FileOutput.writeToFile(output, "----------------------------------------------End---------------------------------------------" , true, true);
+                    FileOutput.writeToFile(output, "----------------------------------------------End---------------------------------------------\n" , true, true);
+                    break;
+
+                case "completeAll":
+                    for (Author author : authors_list) {
+                        for (String article : articles_txt) {
+                            if ((article.split(" ")[1].substring(0,3).equals(author.id)) && !(author.articles.contains(article.split(" ")[1])) && (author.articles.size() < 5)) {
+                                author.articles.add(article.split(" ")[1]);
+                            }
+                        }
+                    }
+                    FileOutput.writeToFile(output, "*************************************CompleteAll Successful*************************************\n" , true, true);
                     break;
             }
         }
