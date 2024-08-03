@@ -1,14 +1,15 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args) {
         //load the input files - create author objects - set the output path
+        ArrayList<String> articles_txt = new ArrayList<>();
         String output = "src\\output.txt";
         FileOutput.writeToFile(output, "", false, false);
-        String[] articles_txt = FileInput.readFile("src\\IO_1\\article1.txt", false, true);
-        String[] authors_file_txt = FileInput.readFile("src\\IO_1\\author.txt", false, true);
-        String[] commands_txt = FileInput.readFile("src\\IO_1\\command.txt", false, true);
+        String[] authors_file_txt = FileInput.readFile("src\\IO_3\\author.txt", false, true);
+        String[] commands_txt = FileInput.readFile("src\\IO_3\\command.txt", false, true);
 
         ArrayList<Author> authors_list = new ArrayList<>();
         for (String line1 : authors_file_txt) {
@@ -31,13 +32,21 @@ public class Main {
 
         //create a dictionary for articles
         HashMap<String, String> articles_map = new HashMap<>();
-        for (String line : articles_txt) {
-            articles_map.put(line.split(" ")[1], line.split(" ")[2]);
-        }
 
         //execute commands: list, completeAll, sortedAll, del sth
+        int line_num = 0;
         for (String command : commands_txt) {
             switch (command.split(" ")[0]) {
+                case "read":
+                    String[] articles_txt_tem = FileInput.readFile(String.format("src\\IO_3\\%s", command.split(" ")[1]), false, true);
+                    for (String line : articles_txt_tem) {
+                        articles_map.put(line.split(" ")[1], line.split(" ")[2] + "\t" + line.split(" ")[3] + "\t" + line.split(" ")[4]);
+                    }
+                    for (String line : articles_txt_tem) {
+                        articles_txt.add(line);
+                    }
+                    break;
+
                 case "list":
                     FileOutput.writeToFile(output, "----------------------------------------------List---------------------------------------------", true, true);
                     for (Author author : authors_list) {
@@ -52,7 +61,12 @@ public class Main {
                             FileOutput.writeToFile(output, "" , true, true);
                         }
                     }
-                    FileOutput.writeToFile(output, "----------------------------------------------End---------------------------------------------\n" , true, true);
+                    if (line_num == commands_txt.length-1) {
+                        FileOutput.writeToFile(output, "----------------------------------------------End---------------------------------------------" , true, false);
+                    }
+                    else {
+                        FileOutput.writeToFile(output, "----------------------------------------------End---------------------------------------------\n" , true, true);
+                    }
                     break;
 
                 case "completeAll":
@@ -65,7 +79,27 @@ public class Main {
                     }
                     FileOutput.writeToFile(output, "*************************************CompleteAll Successful*************************************\n" , true, true);
                     break;
+
+                case "sortedAll":
+                    for (Author author : authors_list) {
+                        Collections.sort(author.articles);
+                    }
+                    FileOutput.writeToFile(output, "*************************************SortedAll Successful*************************************\n" , true, true);
+                    break;
+
+                case "del":
+                    String del_author = command.split(" ")[1];
+                    int ind = 0;
+                    for (Author author : authors_list) {
+                        if (author.id.equals(del_author)) {
+                            ind = authors_list.indexOf(author);
+                        }
+                    }
+                    authors_list.remove(ind);
+                    FileOutput.writeToFile(output, "*************************************del Successful*************************************\n", true, true);
+                    break;
             }
+            line_num++;
         }
     }
 }
