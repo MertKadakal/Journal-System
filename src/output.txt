@@ -1,4 +1,6 @@
 ----------------------------------------------List---------------------------------------------
+Author:101       
+
 Author:102  Horst_Bischof  HUN Computer_Engineering  horst@cs.hacettepe.edu.tr
 +1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation	ICCV	2012
 
@@ -39,6 +41,10 @@ Author:114  Mark_Abrams  HU Computer_Enginnering  a@hacettepe.edu.tr
 *************************************CompleteAll Successful*************************************
 
 ----------------------------------------------List---------------------------------------------
+Author:101       
++1012013    Inferring_Social_Relations_from_Visual_Concepts	ICCV	2013
++1012014    Maximizing_All_Margins:Pushing_Face_Recognition_with_Kernel_Plurality	CVPR	2013
+
 Author:102  Horst_Bischof  HUN Computer_Engineering  horst@cs.hacettepe.edu.tr
 +1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation	ICCV	2012
 +1022002    Domain_Adaptation_for_Object_Recognition:An_Unsupervised_Approach	ICCV	2012
@@ -85,6 +91,10 @@ Author:114  Mark_Abrams  HU Computer_Enginnering  a@hacettepe.edu.tr
 ----------------------------------------------End---------------------------------------------
 
 ----------------------------------------------List---------------------------------------------
+Author:101       
++1012013    Inferring_Social_Relations_from_Visual_Concepts	ICCV	2013
++1012014    Maximizing_All_Margins:Pushing_Face_Recognition_with_Kernel_Plurality	CVPR	2013
+
 Author:102  Horst_Bischof  HUN Computer_Engineering  horst@cs.hacettepe.edu.tr
 +1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation	ICCV	2012
 +1022002    Domain_Adaptation_for_Object_Recognition:An_Unsupervised_Approach	ICCV	2012
@@ -133,6 +143,10 @@ Author:114  Mark_Abrams  HU Computer_Enginnering  a@hacettepe.edu.tr
 *************************************del Successful*************************************
 
 ----------------------------------------------List---------------------------------------------
+Author:101       
++1012013    Inferring_Social_Relations_from_Visual_Concepts	ICCV	2013
++1012014    Maximizing_All_Margins:Pushing_Face_Recognition_with_Kernel_Plurality	CVPR	2013
+
 Author:103  Pietro_Perona  METU Computer_Science  pietro@ce.metu.edu.tr
 +1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation	ICCV	2012
 +1032019    HEAT:Iterative_Relevance_Feedback_with_One_Million_Images	CVPR	2013
@@ -174,6 +188,10 @@ Author:114  Mark_Abrams  HU Computer_Enginnering  a@hacettepe.edu.tr
 *************************************CompleteAll Successful*************************************
 
 ----------------------------------------------List---------------------------------------------
+Author:101       
++1012013    Inferring_Social_Relations_from_Visual_Concepts	ICCV	2013
++1012014    Maximizing_All_Margins:Pushing_Face_Recognition_with_Kernel_Plurality	CVPR	2013
+
 Author:103  Pietro_Perona  METU Computer_Science  pietro@ce.metu.edu.tr
 +1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation	ICCV	2012
 +1032019    HEAT:Iterative_Relevance_Feedback_with_One_Million_Images	CVPR	2013
@@ -217,6 +235,10 @@ Author:114  Mark_Abrams  HU Computer_Enginnering  a@hacettepe.edu.tr
 *************************************CompleteAll Successful*************************************
 
 ----------------------------------------------List---------------------------------------------
+Author:101       
++1012013    Inferring_Social_Relations_from_Visual_Concepts	ICCV	2013
++1012014    Maximizing_All_Margins:Pushing_Face_Recognition_with_Kernel_Plurality	CVPR	2013
+
 Author:103  Pietro_Perona  METU Computer_Science  pietro@ce.metu.edu.tr
 +1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation	ICCV	2012
 +1032019    HEAT:Iterative_Relevance_Feedback_with_One_Million_Images	CVPR	2013
@@ -284,6 +306,10 @@ Author:114  Mark_Abrams  HU Computer_Enginnering  a@hacettepe.edu.tr
 *************************************SortedAll Successful*************************************
 
 ----------------------------------------------List---------------------------------------------
+Author:101       
++1012013    Inferring_Social_Relations_from_Visual_Concepts	ICCV	2013
++1012014    Maximizing_All_Margins:Pushing_Face_Recognition_with_Kernel_Plurality	CVPR	2013
+
 Author:103  Pietro_Perona  METU Computer_Science  pietro@ce.metu.edu.tr
 +1002004    From_Contours_to_3D_Object_Detection_and_Pose_Estimation	ICCV	2012
 +1032003    Decision_Tree_Fields	ICCV	2012

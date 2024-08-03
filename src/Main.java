@@ -11,10 +11,16 @@ public class Main {
         String[] authors_file_txt = FileInput.readFile("src\\IO_3\\author.txt", false, true);
         String[] commands_txt = FileInput.readFile("src\\IO_3\\command.txt", false, true);
 
+        //create the list that consists of authors and their attributes
         ArrayList<Author> authors_list = new ArrayList<>();
         for (String line1 : authors_file_txt) {
             String[] line = line1.split(" ");
-            authors_list.add(new Author(line[1], line[2], line[3], line[4], line[5]));
+            if (line1.split(" ").length == 2) {
+                authors_list.add(new Author(line[1], "", "", "", ""));
+            }
+            else {
+                authors_list.add(new Author(line[1], line[2], line[3], line[4], line[5]));
+            }
         }
 
         //add articles as a list to author objects
